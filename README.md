@@ -10,7 +10,7 @@ From physics to neural networks - I build AI systems that actually ship to produ
 - 👁️ Computer Vision research
 - 🚀 Cloud infrastructure & deployment (AWS, Docker, Terraform)
 - 🦀 Learning Rust & exploring quantitative finance
-- 💡 Freelance AI consulting at [The Craft Machine](https://thecraftmachine.fr)
+- 💡 Freelance AI consulting at [The Craft Machine]()
 
 ## GitHub Stats
 
